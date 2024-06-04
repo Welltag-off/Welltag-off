@@ -25,7 +25,7 @@
 
 <h2 align=left">📊 GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-as&show_icons=true&theme=tokyonight&text_color=005eff&locale=en&layout=compact" alt="Raphaël" /></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yorak4chucgrc5kd6alr5iax4y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=3584e4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31yorak4chucgrc5kd6alr5iax4y&redirect=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphael-as&show_icons=true&theme=tokyonight&text_color=006fff&locale=en" alt="raphael" /></p>
 
